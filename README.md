@@ -1,6 +1,6 @@
 # Awesome-Radiology-Workflow-Platform
 
-# Top Radiology Workflow Platform Ecosystem
+## Top Radiology Workflow Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on PACS, RIS, Radiology Reporting, AI Triage, Worklist Orchestration & Enterprise Imaging*  
