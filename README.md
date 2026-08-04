@@ -4,7 +4,7 @@
   <img src="assets/banner.svg" alt="Awesome Radiology Banner" />
 </p>
 
-## Top Radiology Workflow Platform Ecosystem
+## 🌟 Top Radiology Workflow Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on PACS, RIS, Radiology Reporting, AI Triage, Worklist Orchestration & Enterprise Imaging*  
@@ -24,7 +24,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 | Platform | Description | Pricing | Free Tier Limit | Company Size |
 |----------|-------------|---------|-----------------|--------------|
 | **[Change Healthcare Radiology / Optum](https://www.changehealthcare.com/)** | Enterprise radiology solutions covering PACS, workflow intelligence, and imaging informatics for large health systems. | Custom / Contact Sales | N/A | $30B+ |
@@ -42,7 +42,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[deepc](https://deepc.ai/)** | AI orchestration and platform layer that integrates multiple radiology AI algorithms into existing PACS/RIS workflows. | Custom / Contact Sales | N/A | $20M+ |
 | **[Caresyntax](https://caresyntax.com/)** | Surgical and procedural workflow platform with imaging and data analytics components relevant to interventional radiology and hybrid environments. | Custom / Contact Sales | N/A | $20M+ |
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 - **[MONAI](https://monai.io/)** [![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social&color=white)](https://github.com/Project-MONAI/MONAI/stargazers) / [GitHub](https://github.com/Project-MONAI/MONAI)  
   Medical Open Network for AI - a PyTorch-based, open-source framework for deep learning in healthcare imaging.
@@ -77,7 +77,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Dicoogle](https://www.dicoogle.com/)**  
   Extensible open-source PACS archive that replaces traditional centralized databases with flexible indexing and retrieval mechanisms.
 
-### Additional Strong Open-Source Options
+### 🚀 Additional Strong Open-Source Options
 
 - **Dockerized Orthanc + OHIF stacks** (numerous community compose files) for rapid self-hosted PACS + viewer deployment.
 - **DICOM toolkits** (DCMTK, pydicom, Highdicom) for custom routing, anonymization, and AI pipeline integration.
@@ -88,7 +88,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **Orthanc** (archive + worklists) + **OHIF** or **Weasis** (viewer) + **Sirius RIS / KloudRIS** (workflow) + **Cornerstone3D** extensions + open AI models or orchestration layers. Add Keycloak for SSO, PostgreSQL plugins for scale, and DICOMweb for modern interoperability.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -97,7 +97,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Radiology systems handle protected health information and must comply with HIPAA, GDPR, local regulations, and clinical safety standards.
