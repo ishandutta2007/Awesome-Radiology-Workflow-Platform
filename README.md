@@ -1,3 +1,6 @@
+<meta name="description" content="A curated list of awesome radiology workflow platforms, PACS, RIS, and AI triage SaaS and open-source solutions.">
+<meta name="keywords" content="Radiology, PACS, RIS, AI Triage, DICOM, Open Source Healthcare, Health Tech, VNA, Radiology Workflow">
+
 # Awesome-Radiology-Workflow-Platform
 
 <p align="center">
