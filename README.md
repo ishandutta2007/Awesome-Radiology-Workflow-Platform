@@ -1,5 +1,9 @@
 # Awesome-Radiology-Workflow-Platform
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Radiology Banner" />
+</p>
+
 ## Top Radiology Workflow Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
