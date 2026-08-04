@@ -40,23 +40,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[Orthanc](https://www.orthanc-server.com/)** / [GitHub](https://github.com/jodogne/Orthanc)  
-  Lightweight, highly versatile open-source DICOM server and vendor-neutral archive. Core of many self-hosted PACS deployments, with extensive plugin ecosystem (DICOMweb, PostgreSQL, worklists, etc.). GPLv3.
-
-- **[OHIF Viewer](https://ohif.org/)** / [GitHub](https://github.com/OHIF/Viewers)  
+- **[OHIF Viewer](https://ohif.org/)** [![GitHub stars](https://img.shields.io/github/stars/OHIF/Viewers?style=social&color=white)](https://github.com/OHIF/Viewers/stargazers) / [GitHub](https://github.com/OHIF/Viewers)  
   Zero-footprint, extensible web-based DICOM viewer framework built on Cornerstone3D. Supports DICOMweb, hanging protocols, segmentation, structured reports, and custom workflow modes. Widely used in research and production.
 
-- **[Weasis](https://nroduit.github.io/en/)** / [GitHub](https://github.com/nroduit/Weasis)  
+- **[Weasis](https://nroduit.github.io/en/)** [![GitHub stars](https://img.shields.io/github/stars/nroduit/Weasis?style=social&color=white)](https://github.com/nroduit/Weasis/stargazers) / [GitHub](https://github.com/nroduit/Weasis)  
   Powerful open-source multi-platform DICOM viewer (desktop + web) with advanced tools, PACS integration, DICOM SR/RT support, and plugin architecture. EPL/Apache licensed.
+
+- **[Orthanc](https://www.orthanc-server.com/)** [![GitHub stars](https://img.shields.io/github/stars/jodogne/Orthanc?style=social&color=white)](https://github.com/jodogne/Orthanc/stargazers) / [GitHub](https://github.com/jodogne/Orthanc)  
+  Lightweight, highly versatile open-source DICOM server and vendor-neutral archive. Core of many self-hosted PACS deployments, with extensive plugin ecosystem (DICOMweb, PostgreSQL, worklists, etc.). GPLv3.
+
+- **[Sirius RIS](https://github.com/opendicom/sirius-ris)** [![GitHub stars](https://img.shields.io/github/stars/opendicom/sirius-ris?style=social&color=white)](https://github.com/opendicom/sirius-ris/stargazers)  
+  Open-source Radiology Information System built with modern web technologies (Angular, Node.js, MongoDB) and integrated with OHIF/Orthanc-style stacks. MPL-2.0.
+
+- **[KloudRIS](https://github.com/KloudMedical/KloudRIS)** [![GitHub stars](https://img.shields.io/github/stars/KloudMedical/KloudRIS?style=social&color=white)](https://github.com/KloudMedical/KloudRIS/stargazers)  
+  Open-source, multi-tenant, web-based outpatient RIS and practice management solution designed to manage the full radiology workflow from order to report.
 
 - **[dcm4che / dcm4chee Archive](https://www.dcm4che.org/)** / [GitHub](https://github.com/dcm4che)  
   Mature Java-based open-source DICOM toolkit and archive (PACS) implementation used in many enterprise and research deployments.
-
-- **[Sirius RIS](https://github.com/opendicom/sirius-ris)**  
-  Open-source Radiology Information System built with modern web technologies (Angular, Node.js, MongoDB) and integrated with OHIF/Orthanc-style stacks. MPL-2.0.
-
-- **[KloudRIS](https://github.com/KloudMedical/KloudRIS)**  
-  Open-source, multi-tenant, web-based outpatient RIS and practice management solution designed to manage the full radiology workflow from order to report.
 
 - **[Cornerstone3D / Cornerstone.js](https://www.cornerstonejs.org/)**  
   Foundational open-source JavaScript libraries for medical image rendering, annotation, and advanced visualization used by OHIF and many custom viewers.
