@@ -112,3 +112,14 @@ Star the repo if you find it useful!
 
 **Made for radiologists, imaging IT teams, PACS administrators, AI researchers, and healthcare technologists.**  
 Let's make radiology workflow more open, interoperable, and efficient.
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Radiology-Workflow-Platform&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Radiology-Workflow-Platform&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Radiology-Workflow-Platform&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Radiology-Workflow-Platform&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
