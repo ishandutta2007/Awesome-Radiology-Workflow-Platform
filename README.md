@@ -21,48 +21,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-
-- **[Rad AI](https://www.radai.com/)**  
-  AI-powered radiology reporting platform that generates draft impressions, automates follow-up recommendations, and reduces dictation workload.
-
-- **[Nuance PowerScribe (Microsoft)](https://www.nuance.com/healthcare/diagnostics-solutions/radiology-solutions/powerscribe-one.html)**  
-  Industry-leading AI-assisted speech recognition and structured reporting platform with deep PACS/EHR integration and AI marketplace.
-
-- **[Intelerad](https://www.intelerad.com/)**  
-  Enterprise imaging and workflow orchestration platform (IntelePACS, cloud VNA via Ambra, worklist management) for multi-site radiology networks.
-
-- **[Visage Imaging](https://visageimaging.com/)**  
-  High-performance enterprise viewer (Visage 7) optimized for speed, advanced visualization, and cloud/enterprise reading workflows.
-
-- **[Change Healthcare Radiology / Optum](https://www.changehealthcare.com/)**  
-  Enterprise radiology solutions covering PACS, workflow intelligence, and imaging informatics for large health systems.
-
-- **[Philips IntelliSpace / Vue PACS](https://www.philips.com/)**  
-  Comprehensive enterprise imaging suite with PACS, advanced visualization, AI orchestration, and workflow tools.
-
-- **[Merge PACS (Merative)](https://www.merative.com/)**  
-  Established PACS and enterprise imaging platform with strong workflow and viewing capabilities.
-
-- **[RamSoft PowerServer / OmegaAI](https://www.ramsoft.com/)**  
-  Cloud-native PACS, RIS, VNA, and AI-assisted workflow platform with patient engagement features.
-
-- **[Ambra Health (Intelerad)](https://ambrahealth.com/)**  
-  Cloud-based medical image management, sharing, and VNA solutions widely used for image exchange and enterprise archiving.
-
-- **[Novarad](https://www.novarad.net/)**  
-  NovaPACS and related enterprise imaging solutions focused on workflow, auditability, and multi-specialty support.
-
-- **[Aidoc](https://www.aidoc.com/)**  
-  Clinical AI operating system (aiOS) for real-time triage, detection across multiple pathologies, and care coordination inside the radiology workflow.
-
-- **[Viz.ai](https://www.viz.ai/)**  
-  AI-powered care coordination platform specializing in stroke, PE, and cardiovascular triage with strong hospital network presence.
-
-- **[deepc](https://deepc.ai/)**  
-  AI orchestration and platform layer that integrates multiple radiology AI algorithms into existing PACS/RIS workflows.
-
-- **[Caresyntax](https://caresyntax.com/)**  
-  Surgical and procedural workflow platform with imaging and data analytics components relevant to interventional radiology and hybrid environments.
+| Platform | Description | Pricing | Free Tier Limit |
+|----------|-------------|---------|-----------------|
+| **[Rad AI](https://www.radai.com/)** | AI-powered radiology reporting platform that generates draft impressions, automates follow-up recommendations, and reduces dictation workload. | Custom / Contact Sales | N/A |
+| **[Nuance PowerScribe (Microsoft)](https://www.nuance.com/healthcare/diagnostics-solutions/radiology-solutions/powerscribe-one.html)** | Industry-leading AI-assisted speech recognition and structured reporting platform with deep PACS/EHR integration and AI marketplace. | Custom / Contact Sales | N/A |
+| **[Intelerad](https://www.intelerad.com/)** | Enterprise imaging and workflow orchestration platform (IntelePACS, cloud VNA via Ambra, worklist management) for multi-site radiology networks. | Custom / Contact Sales | N/A |
+| **[Visage Imaging](https://visageimaging.com/)** | High-performance enterprise viewer (Visage 7) optimized for speed, advanced visualization, and cloud/enterprise reading workflows. | Custom / Contact Sales | N/A |
+| **[Change Healthcare Radiology / Optum](https://www.changehealthcare.com/)** | Enterprise radiology solutions covering PACS, workflow intelligence, and imaging informatics for large health systems. | Custom / Contact Sales | N/A |
+| **[Philips IntelliSpace / Vue PACS](https://www.philips.com/)** | Comprehensive enterprise imaging suite with PACS, advanced visualization, AI orchestration, and workflow tools. | Custom / Contact Sales | N/A |
+| **[Merge PACS (Merative)](https://www.merative.com/)** | Established PACS and enterprise imaging platform with strong workflow and viewing capabilities. | Custom / Contact Sales | N/A |
+| **[RamSoft PowerServer / OmegaAI](https://www.ramsoft.com/)** | Cloud-native PACS, RIS, VNA, and AI-assisted workflow platform with patient engagement features. | Custom / Contact Sales | N/A |
+| **[Ambra Health (Intelerad)](https://ambrahealth.com/)** | Cloud-based medical image management, sharing, and VNA solutions widely used for image exchange and enterprise archiving. | Custom / Contact Sales | N/A |
+| **[Novarad](https://www.novarad.net/)** | NovaPACS and related enterprise imaging solutions focused on workflow, auditability, and multi-specialty support. | Custom / Contact Sales | N/A |
+| **[Aidoc](https://www.aidoc.com/)** | Clinical AI operating system (aiOS) for real-time triage, detection across multiple pathologies, and care coordination inside the radiology workflow. | Custom / Contact Sales | N/A |
+| **[Viz.ai](https://www.viz.ai/)** | AI-powered care coordination platform specializing in stroke, PE, and cardiovascular triage with strong hospital network presence. | Custom / Contact Sales | N/A |
+| **[deepc](https://deepc.ai/)** | AI orchestration and platform layer that integrates multiple radiology AI algorithms into existing PACS/RIS workflows. | Custom / Contact Sales | N/A |
+| **[Caresyntax](https://caresyntax.com/)** | Surgical and procedural workflow platform with imaging and data analytics components relevant to interventional radiology and hybrid environments. | Custom / Contact Sales | N/A |
 
 ## Open-Source GitHub Projects
 
