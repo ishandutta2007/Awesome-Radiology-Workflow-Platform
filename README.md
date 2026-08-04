@@ -40,11 +40,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
+- **[MONAI](https://monai.io/)** [![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social&color=white)](https://github.com/Project-MONAI/MONAI/stargazers) / [GitHub](https://github.com/Project-MONAI/MONAI)  
+  Medical Open Network for AI - a PyTorch-based, open-source framework for deep learning in healthcare imaging.
+
 - **[OHIF Viewer](https://ohif.org/)** [![GitHub stars](https://img.shields.io/github/stars/OHIF/Viewers?style=social&color=white)](https://github.com/OHIF/Viewers/stargazers) / [GitHub](https://github.com/OHIF/Viewers)  
   Zero-footprint, extensible web-based DICOM viewer framework built on Cornerstone3D. Supports DICOMweb, hanging protocols, segmentation, structured reports, and custom workflow modes. Widely used in research and production.
 
 - **[Weasis](https://nroduit.github.io/en/)** [![GitHub stars](https://img.shields.io/github/stars/nroduit/Weasis?style=social&color=white)](https://github.com/nroduit/Weasis/stargazers) / [GitHub](https://github.com/nroduit/Weasis)  
   Powerful open-source multi-platform DICOM viewer (desktop + web) with advanced tools, PACS integration, DICOM SR/RT support, and plugin architecture. EPL/Apache licensed.
+
+- **[Kaapana](https://www.kaapana.ai/)** [![GitHub stars](https://img.shields.io/github/stars/kaapana/kaapana?style=social&color=white)](https://github.com/kaapana/kaapana/stargazers) / [GitHub](https://github.com/kaapana/kaapana)  
+  Open-source toolkit for state-of-the-art medical data analysis and AI platform deployments.
+
+- **[Kheops](https://kheops.online/)** [![GitHub stars](https://img.shields.io/github/stars/kheops-project/kheops?style=social&color=white)](https://github.com/kheops-project/kheops/stargazers) / [GitHub](https://github.com/kheops-project/kheops)  
+  Open-source platform for managing, sharing, and organizing medical images.
 
 - **[Orthanc](https://www.orthanc-server.com/)** [![GitHub stars](https://img.shields.io/github/stars/jodogne/Orthanc?style=social&color=white)](https://github.com/jodogne/Orthanc/stargazers) / [GitHub](https://github.com/jodogne/Orthanc)  
   Lightweight, highly versatile open-source DICOM server and vendor-neutral archive. Core of many self-hosted PACS deployments, with extensive plugin ecosystem (DICOMweb, PostgreSQL, worklists, etc.). GPLv3.
